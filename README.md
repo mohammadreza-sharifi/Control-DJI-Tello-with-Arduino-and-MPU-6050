@@ -9,6 +9,7 @@ also you can use djitellopy library:
 ~~~
 pip3 install djitellopy
 ~~~
+## second install Adafruit_MPU6050 in Arduino IDE
 ## the parts used in this project are:
 - Arduino Nano
 - MPU-6050
